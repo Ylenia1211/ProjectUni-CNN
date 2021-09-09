@@ -1,0 +1,2 @@
+# ProjectUni-CNN
+Replication of research article results: Rizzo, Riccardo, et al. "A deep learning approach to DNA sequence classification." International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics. Springer, Cham, 2015.".  ML models were used: Naive Bayes, SVM, Random Forest;  The CNN neural network was also implemented, respecting the modifications made to the LeNet-5 network in the research article.
